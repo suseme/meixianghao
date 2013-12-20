@@ -1,0 +1,8 @@
+- name: About
+  url: /about.html
+  
+- name: Creation
+  url: /creation.html
+  
+- name: Contacts
+  url: /contacts

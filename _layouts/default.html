@@ -24,9 +24,16 @@
   <div class="header">
     <div class="container">
       <ul class="menu">
-        <li><a href="/about.html">About</a></li>
+        {% for member in site.data.members %}
+        <li>
+          <a href="{{ member.url }}">
+            {{ member.name }}
+          </a>
+        </li>
+        {% endfor %}
+        <!-- <li><a href="/about.html">About</a></li>
         <li><a href="/creation.html">Creation</a></li>
-        <li><a href="/contacts.html">Contacts</a></li>
+        <li><a href="/contacts.html">Contacts</a></li> -->
       </ul>
 
       <section class="name">
