@@ -3,10 +3,6 @@ layout: post
 title: "About"
 ---
 
-<p>
-About Us
-</p>
+About Us   
 
-<p>
 TODO: xxxx
-</p>
