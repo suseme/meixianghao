@@ -1,8 +1,8 @@
-- name: About
+- name: 关于
   url: /about.html
   
-- name: Creation
+- name: 作品
   url: /creation.html
   
-- name: Contacts
+- name: 联系
   url: /contacts.html
