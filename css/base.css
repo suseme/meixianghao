@@ -204,6 +204,10 @@ h1 {
     font-style: italic;
     font-size: 16px;
   }
+  
+  .claim p {
+    text-align: center;
+  }
 
   /* ugly hack to full-width tweets on non-mobile */
   @media not screen and (max-device-width: 480px) {
