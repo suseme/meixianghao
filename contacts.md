@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Contacts"
+title: "联系"
 ---
 
 ### 联系我们

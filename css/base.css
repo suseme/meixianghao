@@ -55,6 +55,9 @@ li {
     color: #307EA9;
   }
 
+  .name {
+    text-align: center;
+  }
   .name a {
     font-size: 30px;
     font-family: 'Avenir Next W01 Thin';
@@ -71,7 +74,7 @@ li {
     margin: 0;
     font-family: 'Avenir Next LT W01 Bold';
     text-transform: uppercase;
-    float: right;
+    text-align: center;
   }
   .menu li {
     display: inline;
